@@ -29,6 +29,12 @@
 
 第五步：由于opencv的图片拼接API封装的过于高级，没有基本工具包可用，所以全部代码都是由手写实现。其中最关键的是对单应性矩阵的理解，如果不能应用单应性矩阵计算出变换后的画布最大尺寸，就有可能产生图片变换后超出画布范围的情况。
 
+## 项目成员
+Winter : https://github.com/zysc1996
+JocelynWang2333 : https://github.com/JocelynWang2333
+Sunmile : https://github.com/Sunmilelj
+Rongxin : https://github.com/dengrongxin
+
 ## 后续工作
 这个项目可尝试的内容还有很多，会在将来不定期更新。
 
