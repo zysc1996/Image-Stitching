@@ -31,9 +31,9 @@
 
 ## 项目成员
 Winter : https://github.com/zysc1996
-JocelynWang2333 : https://github.com/JocelynWang2333
-Sunmile : https://github.com/Sunmilelj
-Rongxin : https://github.com/dengrongxin
+<br>JocelynWang2333 : https://github.com/JocelynWang2333
+<br>Sunmile : https://github.com/Sunmilelj
+<br>Rongxin : https://github.com/dengrongxin
 
 ## 后续工作
 这个项目可尝试的内容还有很多，会在将来不定期更新。
